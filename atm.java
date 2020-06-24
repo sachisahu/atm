@@ -5,7 +5,7 @@ class atm
 	{
 		int x;
 		Scanner sc=new Scanner(System.in);
-		System.out.println("1.PIN CHANGE                                   4.BANKING");
+		System.out.println("1.PIN idfhbvdk                                   4.BANKING");
 		System.out.println("2.PIN GENERATE                              5.BALANCE");
 		System.out.println("3.CHANGE MOBILE NUMBER          6.TRANSFER");
 		x=sc.nextInt();
