@@ -18,7 +18,7 @@ public static void main(String arg[])
    
     } 
    
-    // Print second row 
+    // Print second row yguygbuyvy
     System.out.println(); 
     for(int i=1; i<=34; i++) 
     { 
