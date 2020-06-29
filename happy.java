@@ -5,7 +5,7 @@ class happy
 { 
 public static void main(String arg[]) 
 { 
-    // Print first row 
+    // Print first row sachisachihyidbfvildsk
     char ch = '*'; 
     for(int i=1; i<=34; i++) 
     { 
